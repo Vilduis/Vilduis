@@ -19,7 +19,7 @@
 
 Desarrollador Frontend con experiencia en **React** y **Next.js**, orientado al desarrollo de plataformas web y visualización de datos interactiva. Enfocado en la calidad visual, la experiencia de usuario y la colaboración con equipos de diseño y backend. Con conocimientos en **Node.js/Express**, **Spring Boot** y **FastAPI** para contribuir en proyectos full stack.
 
-- 🎓 Estudiante de Ingeniería de Sistemas de Información en la **UPC** · Becario Pronabec Beca 18
+- 🎓 Estudiante de Ingeniería de Sistemas de Información en la **UPC**
 - 🌐 Inglés B2
 - 📍 Lima, Perú
 
